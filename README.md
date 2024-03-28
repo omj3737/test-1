@@ -90,7 +90,9 @@ int sum(int x, int y) {
 
 [네이버](https://www.naver.com "클릭하면 네이버로 이동합니다.")
 
+## 이미지 업로드는 해당 repository에 이미지를 업로드 한 뒤 ![설명메세지](./파일명)
 
+![벚꽃](./다운로드.jfif)
 
 
       
