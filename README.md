@@ -88,7 +88,7 @@ int sum(int x, int y) {
 
 [네이버](https://www.naver.com)
 
-[네이버](https://www.naver.com, "클릭하면 네이버로 이동합니다.")
+[네이버](https://www.naver.com "클릭하면 네이버로 이동합니다.")
 
 
 
